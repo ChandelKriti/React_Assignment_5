@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App (Snapshot) App renders Digital Clock 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Digital Clock
+  </h1>
+  <div>
+    <div>
+      <label
+        className="switch"
+      >
+        <input
+          onClick={[Function]}
+          type="checkbox"
+        />
+        <span
+          className="slider round"
+        />
+      </label>
+    </div>
+    <div>
+      <h1>
+        <span
+          className="center"
+        >
+          2:49:39 PM
+          <br />
+          <br />
+          
+        </span>
+      </h1>
+    </div>
+  </div>
+</div>
+`;
